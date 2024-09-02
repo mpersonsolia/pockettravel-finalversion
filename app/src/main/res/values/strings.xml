@@ -1,4 +1,10 @@
 <resources>
+    //main activity
+    <string name="mainactivity_securityerror">Erro de segurança ao acessar a localização.</string>
+    <string name="mainactivity_securityerror_obtain">Erro de segurança ao obter a localização.</string>
+    <string name="mainactivity_securityerror_unable">Erro de segurança ao tentar obter a localização.</string>
+    <string name="mainactivity_securityerror_access">Erro de segurança ao tentar acessar a localização.</string>
+
     //login screen
     <string name="app_name">Pocket Travel</string>
     <string name="login_email_placeholder">Digite seu e-mail</string>
@@ -53,15 +59,15 @@
     <string name="dashboard_button_search">Pesquisar</string>
     <string name="dashboard_most_visited">Mais Visitados</string>
     <string name="dashboard_lastseen">Últimos Vistos</string>
-    <string name="dashboard_lastseen_distance">Distance:</string>
-    <string name="dashboard_lastseen_museumoftomorrow">Museum of Tomorrow</string>
-    <string name="dashboard_lastseen_christtheredeemer">Christ the Redeemer</string>
-    <string name="dashboard_lastseen_copacabanabeach">Copacabana Beach</string>
-    <string name="dashboard_lastseen_lagepark">Lage Park</string>
-    <string name="dashboard_lastseen_catetepalace">Catete Palece</string>
+    <string name="dashboard_lastseen_distance">Distância:</string>
+    <string name="dashboard_lastseen_museumoftomorrow">Museu do Amanhã</string>
+    <string name="dashboard_lastseen_christtheredeemer">Cristo Redentor</string>
+    <string name="dashboard_lastseen_copacabanabeach">Praia de Copacabana</string>
+    <string name="dashboard_lastseen_lagepark">Parque Lage</string>
+    <string name="dashboard_lastseen_catetepalace">Palácio do Catete</string>
     <string name="dashboard_lastseen_arpoador">Arpoador</string>
-    <string name="dashboard_lastseen_selaronsteps">Selarón Steps</string>
-    <string name="dashboard_lastseen_ipanemabeach">Ipanema Beach</string>
-    <string name="dashboard_lastseen_not_available">Not available</string>
-    <string name="dashboard_lastseen_location_permission">Location permission not granted.</string>
+    <string name="dashboard_lastseen_selaronsteps">Escadaria Selarón</string>
+    <string name="dashboard_lastseen_ipanemabeach">Praia de Ipanema</string>
+    <string name="dashboard_lastseen_not_available">Indisponível</string>
+    <string name="dashboard_lastseen_location_permission">Permissão de localização não concedida.</string>
 </resources>
