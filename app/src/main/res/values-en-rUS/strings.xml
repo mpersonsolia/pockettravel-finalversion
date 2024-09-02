@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //login screen
+    <string name="app_name">Pocket Travel</string>
+    <string name="login_email_placeholder">Enter your email</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_email_message">Email can not be blank!</string>
+    <string name="login_password_placeholder">Enter your password</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_password_message">Password can not be blank!</string>
+    <string name="login_password_forgot">Forgot your password?</string>
+    <string name="login_button_enter">SIGN IN</string>
+    <string name="login_subscribe_phrase">Do not have an account?</string>
+    <string name="login_subscribe_link">Register</string>
+
+    //subscribe screen
+    <string name="subscribe_firstName_placeholder">Enter your first name</string>
+    <string name="subscribe_firstName_label">First name</string>
+    <string name="subscribe_firstName_message">First name can not me blank!</string>
+    <string name="subscribe_lastName_placeholder">Enter your lastname</string>
+    <string name="subscribe_lastName_label">Last name</string>
+    <string name="subscribe_lastName_message">Last name can not me blank!</string>
+    <string name="subscribe_email_placeholder">Enter your email</string>
+    <string name="subscribe_email_label">Email</string>
+    <string name="subscribe_email_message">Email can not be blank!</string>
+    <string name="subscribe_email_error">Invalid email!</string>
+    <string name="subscribe_password_placeholder">Enter your password</string>
+    <string name="subscribe_password_label">Password</string>
+    <string name="subscribe_password_message">Maximum of 8 characteres.</string>
+    <string name="subscribe_password_message_error">Password can not be blank!</string>
+    <string name="subscribe_confirmPassword_placeholder">Confirm your password</string>
+    <string name="subscribe_confirmPassword_label">Password confirmation</string>
+    <string name="subscribe_confirmPassword_message_error">The password confirmation can not be blank!</string>
+    <string name="subscribe_password_mismatch_message">The passwords do not match!</string>
+    <string name="subscribe_checkbox_receive_updates">Agree to receive updates from Pocket Travel.</string>
+    <string name="subscribe_checkbox_accept_terms_part1">Agree with the </string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="subscribe_checkbox_accept_terms_part2"> and </string>
+    <string name="privacy_policy">Privacy Politics</string>
+    <string name="subscribe_checkbox_accept_terms_part3"> of Pocket Travel.</string>
+    <string name="subscribe_button_enter">REGISTER</string>
+
+    //dashboard screen
+    <string name="dashboard_user">Hi, Maria</string>
+    <string name="dashboard_title">Where are we going now?</string>
+    <string name="dashboard_input">Search</string>
+    <string name="dashboard_cities">Pick a city</string>
+    <string name="dashboard_categories">Pick a categorie</string>
+    <string name="dashboard_categories_city">City</string>
+    <string name="dashboard_categories_aquatic">Aquatic</string>
+    <string name="dashboard_categories_parks">Parks</string>
+    <string name="dashboard_categories_transport">Transport</string>
+    <string name="dashboard_categories_mountain">Mountain</string>
+    <string name="dashboard_button_search">Search</string>
+    <string name="dashboard_most_visited">Most Visited</string>
+    <string name="dashboard_lastseen">Last Seen</string>
+    <string name="dashboard_lastseen_distance">Distância:</string>
+    <string name="dashboard_lastseen_museumoftomorrow">Museu do Amanhã</string>
+    <string name="dashboard_lastseen_christtheredeemer">Cristo Redentor</string>
+    <string name="dashboard_lastseen_copacabanabeach">Praia de Copacabana</string>
+    <string name="dashboard_lastseen_lagepark">Parque Lage</string>
+    <string name="dashboard_lastseen_catetepalace">Palácio do Catete</string>
+    <string name="dashboard_lastseen_arpoador">Arpoador</string>
+    <string name="dashboard_lastseen_selaronsteps">Escadaria Selarón</string>
+    <string name="dashboard_lastseen_ipanemabeach">Praia de Ipanema</string>
+    <string name="dashboard_lastseen_not_available">Indisponível</string>
+    <string name="dashboard_lastseen_location_permission">Permissão de localização não concedida.</string>
+</resources>
